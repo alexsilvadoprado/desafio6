@@ -1,0 +1,10 @@
+C:\Users\FP20160153\Desktop\Visual Studio Projects\Desafio6\Desafio6\bin\Debug\Desafio6.exe.config
+C:\Users\FP20160153\Desktop\Visual Studio Projects\Desafio6\Desafio6\bin\Debug\Desafio6.exe
+C:\Users\FP20160153\Desktop\Visual Studio Projects\Desafio6\Desafio6\bin\Debug\Desafio6.pdb
+C:\Users\FP20160153\Desktop\Visual Studio Projects\Desafio6\Desafio6\obj\Debug\Desafio6.csprojResolveAssemblyReference.cache
+C:\Users\FP20160153\Desktop\Visual Studio Projects\Desafio6\Desafio6\obj\Debug\Desafio6.frmDesafio6.resources
+C:\Users\FP20160153\Desktop\Visual Studio Projects\Desafio6\Desafio6\obj\Debug\Desafio6.Properties.Resources.resources
+C:\Users\FP20160153\Desktop\Visual Studio Projects\Desafio6\Desafio6\obj\Debug\Desafio6.csproj.GenerateResource.Cache
+C:\Users\FP20160153\Desktop\Visual Studio Projects\Desafio6\Desafio6\obj\Debug\Desafio6.csproj.CoreCompileInputs.cache
+C:\Users\FP20160153\Desktop\Visual Studio Projects\Desafio6\Desafio6\obj\Debug\Desafio6.exe
+C:\Users\FP20160153\Desktop\Visual Studio Projects\Desafio6\Desafio6\obj\Debug\Desafio6.pdb
