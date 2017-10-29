@@ -94,6 +94,7 @@
             this.cmbMarca.Name = "cmbMarca";
             this.cmbMarca.Size = new System.Drawing.Size(299, 21);
             this.cmbMarca.TabIndex = 4;
+            this.cmbMarca.SelectedIndexChanged += new System.EventHandler(this.cmbMarca_SelectedIndexChanged);
             // 
             // lblModelo
             // 
@@ -112,6 +113,7 @@
             this.cmbModelo.Name = "cmbModelo";
             this.cmbModelo.Size = new System.Drawing.Size(300, 21);
             this.cmbModelo.TabIndex = 6;
+            this.cmbModelo.SelectedIndexChanged += new System.EventHandler(this.cmbModelo_SelectedIndexChanged);
             // 
             // lblAno
             // 
@@ -132,6 +134,7 @@
             this.cmbAno.Name = "cmbAno";
             this.cmbAno.Size = new System.Drawing.Size(331, 21);
             this.cmbAno.TabIndex = 8;
+            this.cmbAno.SelectedIndexChanged += new System.EventHandler(this.cmbAno_SelectedIndexChanged);
             // 
             // lblPreco
             // 
@@ -152,6 +155,7 @@
             this.cmbPreco.Name = "cmbPreco";
             this.cmbPreco.Size = new System.Drawing.Size(331, 21);
             this.cmbPreco.TabIndex = 10;
+            this.cmbPreco.SelectedIndexChanged += new System.EventHandler(this.cmbPreco_SelectedIndexChanged);
             // 
             // lsvCarros
             // 
